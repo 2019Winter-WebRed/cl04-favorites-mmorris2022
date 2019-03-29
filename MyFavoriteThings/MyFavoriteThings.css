@@ -1,0 +1,23 @@
+/*
+* Maggie Morris
+* Due Date
+* My favorite things
+*/
+
+/* THe universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+}
+img{width: 500px; height: 400px;}
+#WaltandMickey {width: 1000px; height: 700px;}
+#CoolRollercoaster {width: 300px; height: 300px;}
+#giraffe {width: 700px; height: 300px;}
+
+figure{float: right;}
